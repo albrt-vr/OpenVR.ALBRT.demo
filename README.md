@@ -1,3 +1,4 @@
+# This project is in prototype/staging in a private repositroy - this is a placeholder public repo and will be empty until the project exits staging
 # OpenVR.ALBRT.demo
 A demo of ALBRT concepts that runs in OpenVR (SteamVR) (win64)
 ----
